@@ -1,7 +1,4 @@
 jlehikoinen-recipes
 ===================
 
-AutoPkg recipes:
-
-- Amazon WorkSpaces
-- Sibelius (only munki recipe)
+Repo moved to https://github.com/autopkg/jlehikoinen-recipes
